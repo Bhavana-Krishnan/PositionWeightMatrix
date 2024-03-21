@@ -9,7 +9,7 @@
 
 ## Logical Calculation of PWM
 > The Flowchart below depicts how the PWM is calculated.
-
+![alt text](./PWM_LOGIC.PNG)
 ## Requiremnets
 > The following are the required packages and can be installed using the command *"pip install <package_name>"*
 ###### Package:package_name
